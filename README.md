@@ -1,7 +1,6 @@
 # CS50-Final-Project
 # Title: Calculator
 ## Name: Atharva Ghorpade
-## eDx username: Drew3470
 ## GitHub username: Drew3470
 ### Video Demo: https://youtu.be/LaLEn9AQOeI
 ### Date of Video Recording: 07/03/2025
